@@ -21,7 +21,7 @@ the plan currently is to build a RAG system using llama3 and then have a TTS mod
   - **nvidia parakeet**: from nemo toolkit
 
 - **LLM**
-  - **llama3**: https://ai.meta.com/blog/meta-llama-3/
+  - **llama3**: https://huggingface.co/nvidia/Llama3-ChatQA-1.5-8B
 - **TTS**
   still need to think about this 
   - **XTTS**: if we need multiple voices
